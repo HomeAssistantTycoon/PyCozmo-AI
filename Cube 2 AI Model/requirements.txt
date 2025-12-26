@@ -1,0 +1,16 @@
+# Cozmo control
+pycozmo>=0.10.1
+
+# Image processing
+opencv-python>=4.12.0
+numpy>=1.26.0
+Pillow>=10.0.0
+
+# YOLOv8 (Ultralytics)
+ultralytics>=8.3.241
+torch>=2.0.1
+torchvision>=0.15.2
+
+# Optional but recommended for faster training/augmentation
+tqdm>=4.66.0
+
