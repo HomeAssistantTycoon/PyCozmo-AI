@@ -1,2 +1,2 @@
 # Cube 2 AI Model
-This AI model should with some level of accuracy be able to identify the cube 2 that comes with Cozmo. I successfully ran it on a Windows 10 with a very crappy GPU, so you shouldn't have much trouble. The best.pt files is trained off of the YOLOv8 nano image recognition model. 
+This AI model should with some level of accuracy be able to identify the cube 2 that comes with Cozmo. I successfully ran it on a Windows 10 with a very crappy GPU, so you shouldn't have much trouble. The best.pt file is trained off of the YOLOv8 nano image recognition model. Once the requirements are installed, the model should run cleanly when used with the python script, however if it does not, please file an issue, and I will fix it as fast as I can.
